@@ -36,8 +36,7 @@ This project is a FastAPI-based application designed to predict plant health usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   https://github.com/Lextor-lb/plant-health-prediction-API.git
    ```
 2. Install the required dependencies:
 
